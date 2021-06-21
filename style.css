@@ -1,0 +1,22 @@
+.header{
+    background-color: #2C91DF;
+}
+.header img{
+    width: 160px;
+    height: auto;
+}
+.header .menu-bar{
+    padding: 44px 0;
+    /*! line-height: 53px; */
+}
+.header ul li{
+    display: inline-block;
+}
+.header ul li a{
+    color: #fff ;
+    padding: 20px 28px;
+    font-size: 20px;
+}
+.header ul li a:hover{
+
+}
